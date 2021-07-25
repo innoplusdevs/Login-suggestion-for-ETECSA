@@ -42,7 +42,7 @@ body {
 
 #nav {
   position: absolute;
-  bottom: 3rem;
+  bottom: 2rem;
   right: 0;
   left: 0;
   display: flex;
@@ -117,7 +117,7 @@ body {
 #email {
   padding-left: 10%;
   background-image: url("images/user.png");
-  background-size: 8%;
+  background-size: 6%;
   background-repeat: no-repeat;
   background-position-x: 10px;
   background-position-y: center;
@@ -133,15 +133,15 @@ body {
 
 #show-password {
   position: absolute;
-  width: 7%;
+  width: 4.8%;
   right: 15%;
-  top: 40%;
+  top: 47%;
 }
 
 #password {
   padding-left: 10%;
   background-image: url("images/block.png");
-  background-size: 8%;
+  background-size: 6%;
   background-repeat: no-repeat;
   background-position-x: 10px;
   background-position-y: center;
@@ -175,13 +175,13 @@ body {
 #website {
   text-decoration: none;
   position: absolute;
-  bottom: 3rem;
+  bottom: 2rem;
   color: #0054f5;
 }
 
 @media screen and (min-width: 1000px) {
   #show-password{
-    top:25%;
+    top:35%;
   }
 }
 
